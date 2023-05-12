@@ -1,0 +1,22 @@
+{
+  "name": "osu_np",
+  "version": "1.0.0",
+  "description": "A simple twitch request bot for osu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Razzer1337/osu-np.git"
+  },
+  "keywords": [
+    "osu"
+  ],
+  "author": "Razzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razzer1337/osu-np/issues"
+  },
+  "homepage": "https://github.com/Razzer1337/osu-np#readme"
+}
